@@ -12,7 +12,8 @@ header:
   pages:
     - name: Home
       slug: /
-    - name: About
+    - name: About me
+      slug: /about-me
     - name: Blog
 
 footer:
