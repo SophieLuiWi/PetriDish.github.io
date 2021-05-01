@@ -1,6 +1,6 @@
 .profilepic {
   float: right;
-  border: none;
+  border: #fff 1px solid;
   margin-left: 20px;
 
   @include media-query($on-mobile) {
