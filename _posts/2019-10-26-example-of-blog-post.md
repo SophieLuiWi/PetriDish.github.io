@@ -50,5 +50,4 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 
 ##### FOOTNOTES
 
-[^1]: This is a note!
-[^2]: In a time when science was communicated largely in German, Kausche, Pfankuch and Ruska published their [first images](https://link.springer.com/content/pdf/10.1007/BF01493353.pd), which have become [clearer](https://www.embopress.org/doi/pdf/10.15252/embr.201948451) over time ;-)
+[^1]: In a time when science was communicated largely in German, Kausche, Pfankuch and Ruska published their [first images](https://link.springer.com/content/pdf/10.1007/BF01493353.pdf), which have become [clearer](https://www.embopress.org/doi/pdf/10.15252/embr.201948451) over time ;-)
