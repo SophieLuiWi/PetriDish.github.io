@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p>
-  Welcome to what I hope to become a collection of stories involving anything that fits in a petri dish – from cells to viruses and from coverslips to microscopy grids. Like this little beauty here; a cell fluorescing in green (like a jelly fish).  
+  Welcome to what I hope to become a collection of stories involving anything that fits in a petri dish – from cells to viruses and from coverslips to microscopy grids. Like this little beauty here; a cell glowing in green (like a jelly fish).  
 </p>
 
 <p>
