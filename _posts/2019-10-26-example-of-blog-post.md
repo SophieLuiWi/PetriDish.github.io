@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Book delivery to a microcosmos- what viruses would be if cells were cities..."
-subtitle: "Test test"
+title:  "Book delivery to a microcosmos"
+subtitle: "- what viruses would be if cells were cities..."
 date:   2021-05-07
 blurb: "A look at an example post using Bay Jekyll theme."
 og_image: /assets/img/content/post-example/Banner.jpg
