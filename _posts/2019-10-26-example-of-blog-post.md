@@ -34,17 +34,17 @@ A single human cell is so small, it is invisible to the naked eye but can be mag
 <br />
 <br />
 
-#### [...and viruses a special delivery]
+#### ...and viruses a special delivery
 
 
 <br />
 
-#### [Delivery to a microcosmos]
+#### Delivery to a microcosmos
 
 
 <br />
 
-#### [The aftermath] 
+#### The aftermath
 
 <br />
 
