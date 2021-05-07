@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Post example"
-date:   2019-10-26 10:00:40
+title:  "Book delivery to a microcosmos- what viruses would be if cells were cities..."
+date:   2021-05-07
 blurb: "A look at an example post using Bay Jekyll theme."
 og_image: /assets/img/content/post-example/Banner.jpg
 ---
@@ -10,8 +10,6 @@ og_image: /assets/img/content/post-example/Banner.jpg
 <br />
 <br />
 
-This is an example of blog post.
-Picture by [Bethany Legg](https://unsplash.com/@bkotynski).
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum[^1].
 
@@ -25,8 +23,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
     * [Part 2 Sub-part 2](#part-2-sub-part-2)
 3. [Footnotes](#footnotes)
 
-#### PART 1
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+#### Preface (or virus infection in a nutshell)
+
+Viruses are tiny. They are the smallest pathogens that infect and often devastate living organisms from the smallest (bacteria) to the largest, including us. An infection starts with the entry of a single virus into a cell. Once inside, the virus takes control of the host cell machinery to multiply and generate many copies of itself. The newly formed viruses then find their way out of the cell again, spread to surrounding cells and repeat their infection cycle until they are defeated by the defense mechanisms of the infected organism – or until their host succumbs. 
+A single human cell is so small, it is invisible to the naked eye but can be magnified with simple microscopes that have been around for more than 300 years. A virus, being even smaller than a cell, is so tiny that it requires special microscopes to reveal its shape and size and the first image of a virus (the plant virus Tobacco Mosaic Virus) wasn’t acquired until 1935[^2]. Since then, viruses have been studied with tools and instruments unimaginable just a few generations ago. New species are discovered all around the world, revealing ancient relationships between different viruses and their hosts. And the remarkable details unveiled about the “life” cycle of some viruses create infinite room for imagination.
+
 <br />
 
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
@@ -53,3 +54,4 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 ##### FOOTNOTES
 
 [^1]: This is a note!
+[^2]: In a time when science was communicated largely in German, Kausche, Pfankuch and Ruska published their [first images](https://link.springer.com/content/pdf/10.1007/BF01493353.pd), which have become [clearer](https://www.embopress.org/doi/pdf/10.15252/embr.201948451) over time ;)
