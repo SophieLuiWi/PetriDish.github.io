@@ -15,11 +15,11 @@ og_image: /assets/img/content/post-example/Banner.jpg
 
 
 #### Table of Contents
-1. [Preface (or virus infection in a nutshell)](#part-1)
+1. [Preface (or virus infection in a nutshell)](#preface-(or-virus-infection-in-a-nutshell)
 2. [If cells were cities...](#part-2)
 3. [...and viruses a special delivery](#part-3)
 4. [Delivery to a microcosmos](#part-4)
-5. [The aftermath](#part-5)
+5. [The aftermath](#the-aftermath)
 6. [Footnotes](#footnotes)
 
 #### Preface (or virus infection in a nutshell)
