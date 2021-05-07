@@ -17,11 +17,11 @@ og_image: /assets/img/content/post-example/Banner.jpg
 
 #### Table of Contents
 1. [Preface (or virus infection in a nutshell)](#preface-(or-virus-infection-in-a-nutshell)
-2. [If cells were cities...](#part-2)
-3. [...and viruses a special delivery](#part-3)
-4. [Delivery to a microcosmos](#part-4)
-5. [The aftermath](#the-aftermath)
-6. [Footnotes](#footnotes)
+3. [If cells were cities...](#if-cells-were-cities...)
+4. [...and viruses a special delivery](#...and-viruses-a-special-delivery)
+5. [Delivery to a microcosmos](#delivery-to-a-microcosmos)
+6. [The aftermath](#the-aftermath)
+7. [Footnotes](#footnotes)
 
 #### Preface (or virus infection in a nutshell)
 
