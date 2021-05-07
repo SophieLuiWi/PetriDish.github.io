@@ -16,7 +16,7 @@ og_image: /assets/img/content/post-example/Banner.jpg
 
 
 #### Table of Contents
-1. [Preface (or virus infection in a nutshell)](#preface-(or-virus-infection-in-a-nutshell)
+1. [Preface (or virus infection in a nutshell)](#preface-(or-virus-infection-in-a-nutshell))
 3. [If cells were cities...](#if-cells-were-cities...)
 4. [...and viruses a special delivery](#...and-viruses-a-special-delivery)
 5. [Delivery to a microcosmos](#delivery-to-a-microcosmos)
