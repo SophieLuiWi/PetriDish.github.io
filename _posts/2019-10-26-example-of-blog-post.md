@@ -36,6 +36,7 @@ A human cell is like a city buzzing with life, a tiny microcosmos in a bubble. T
 
 Outside the library, life is just as busy. The errand boys don’t have to keep looking long until they find workers strolling around in search for work. They hand over the briefcases and the workers immediately sit down to study the paper stacks. Because what the clerks have been copying so tirelessly in the library are instruction manuals for all sorts of marvelous machines for each task needed for everyday city life. In fact, the encyclopedia in the library contains nothing else but instruction manuals for machines and buildings and tools of all shapes and complexities. There are pumps to generate energy, transporters, wrapping stations for the post, sorting and alarm systems and metal detectors. They all must be built, maintained, repaired and when broken beyond repair, taken to the next recycling station to be taken apart. Once the workers have gone over their instruction manual, they start gathering material to build their respective machine. Most of the city is a huge construction site: One can see wheelbarrows of sand and carts full of bricks being moved around, half-built houses next to impressive architecture. Road workers are rapidly paving unfinished streets on which impatient truckdrivers are already waiting in their trucks with running motors to deliver their cargo. Work in the city progresses at an astonishing speed, with millions of machines being built, replaced, repaired and torn down all the time. Day in and day out, the city is on her feet, restless and thriving. Until one day, out of the blue, an unexpected parcel arrives.
 
+og_image: /assets/img/content/post-example/table1.png
 <img src="{{ "/assets/img/content/post-example/table1.png" | absolute_url }}" alt="bay" class="post-pic"/>
 
 #### ...and viruses a special delivery
@@ -65,7 +66,7 @@ This is what I imagine a virus would be if it were a little bit more like an eve
 One discrepancy, however, that arises when these two analogies are mixed is the difference in dimensions. A virus (like the Ebola virus used in this example) of approximately 2 µm in length is magnified 300,000 times to become a papyrus roll of 60 cm length. A human body cell of 30 µm on the other hand, is magnified approximately 22 million times to become the smallest city in the world (the Vatican, which has an area of only 0.44 km^2). 
 <br />
 
-And last but not least: I am very grateful for the invaluable input I received from Dimitris, Helen, Theresa, Nic and Michi (in the order they received the different drafts 😉). Thanks a lot for your time and patience and critical input regarding “biological correctness”.
+And last but not least: I am very grateful for the invaluable input I received from Dimitris, Helen, Theresa, Nic and Michi (in the order they received the different drafts ;-)). Thanks a lot for your time and patience and critical input regarding “biological correctness”.
 Special thanks to my crazy sister, for whom I wrote this story in the first place and who has made me laugh so many times with her on-point-brutally-honest comments. 
 
 
