@@ -11,9 +11,6 @@ og_image: /assets/img/content/post-example/Banner.jpg
 <br />
 <br />
 
-<br />
-
-
 #### Table of Contents
 1. [Preface (or virus infection in a nutshell)](#preface-(or-virus-infection-in-a-nutshell))
 3. [If cells were cities...](#if-cells-were-cities)
@@ -39,13 +36,12 @@ A human cell is like a city buzzing with life, a tiny microcosmos in a bubble. T
 
 Outside the library, life is just as busy. The errand boys don’t have to keep looking long until they find workers strolling around in search for work. They hand over the briefcases and the workers immediately sit down to study the paper stacks. Because what the clerks have been copying so tirelessly in the library are instruction manuals for all sorts of marvelous machines for each task needed for everyday city life. In fact, the encyclopedia in the library contains nothing else but instruction manuals for machines and buildings and tools of all shapes and complexities. There are pumps to generate energy, transporters, wrapping stations for the post, sorting and alarm systems and metal detectors. They all must be built, maintained, repaired and when broken beyond repair, taken to the next recycling station to be taken apart. Once the workers have gone over their instruction manual, they start gathering material to build their respective machine. Most of the city is a huge construction site: One can see wheelbarrows of sand and carts full of bricks being moved around, half-built houses next to impressive architecture. Road workers are rapidly paving unfinished streets on which impatient truckdrivers are already waiting in their trucks with running motors to deliver their cargo. Work in the city progresses at an astonishing speed, with millions of machines being built, replaced, repaired and torn down all the time. Day in and day out, the city is on her feet, restless and thriving. Until one day, out of the blue, an unexpected parcel arrives.
 
-<br />
+<img src="{{ "/assets/img/content/post-1/table1.png" | absolute_url }}" alt="bay" class="post-pic"/>
 
 #### ...and viruses a special delivery
 
 Far away from the city, still unaware of any future events, a striking parcel lies on the ground. Apparent only from the numerous stickers it is studded with, it resembles more an accessory than packaging: a colourful pouch, smoothly adapting the shape of what appears to be an elongated box. Beautifully ornamented, the box is composed of many small pieces, like an assembled mosaic. Taken apart, one by one, it reveals a delicate papyrus roll held together by leather strings. The papyrus roll is so wide, it stretches all along the length of the box and it is covered with an endless sequence of letters, uninterrupted by punctuation or empty space. Finally, stuck to one end of the papyrus roll is a magnifying glass. It has a varnished handle and is attached with a string to the umbilicus, the wooden stick used to unfurl the scroll. 
 All by itself, the parcel can lie around for a long time undiscovered and undisturbed. Yet, from time to time, somebody passes by: a street cleaner, equipped with his sturdy broom and dustbin; two kids running on the street, playing soccer with an old can of coke; a woman pushing a stroller while scolding her older child about running on the street. Most are too preoccupied to notice the parcel on the ground. Until one day somebody does take notice, picks the parcel up from the ground and - unable to make sense of the address scribbled on the many stickers on the pouch - brings it conscientiously to the nearest city. 
-
 
 #### Delivery to a microcosmos
 
