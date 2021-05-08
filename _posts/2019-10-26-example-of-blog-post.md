@@ -11,8 +11,6 @@ og_image: /assets/img/content/post-example/Banner.jpg
 <br />
 <br />
 
-This is what I imagine a virus to be (in this case Ebola viruses), if it was magnified 300,000 times. 
-
 <br />
 
 
