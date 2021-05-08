@@ -69,8 +69,8 @@ Turning away from the city center and leaving the library and the square full of
 This is what I imagine a virus would be if it were a little bit more like an everyday object, we are more familiar with. Since, simply speaking, viruses are very well protected genomes, the book analogy often used to describe DNA came immediately to my mind. Similarly, the cell can be described as a city buzzing with life and almost any biochemical process can be described with an analogy of the inner workings of a city. 
 <br />
 One discrepancy, however, that arises when these two analogies are mixed is the difference in dimensions. A virus (like the Ebola virus used in this example) of approximately 2 µm in length is magnified 300,000 times to become a papyrus roll of 60 cm length. A human body cell of 30 µm on the other hand, is magnified approximately 22 million times to become the smallest city in the world (the Vatican, which has an area of only 0.44 km^2). 
-
 <br />
+
 And last but not least: I am very grateful for the invaluable input I received from Dimitris, Helen, Theresa, Nic and Michi (in the order they received the different drafts 😉). Thanks a lot for your time and patience and critical input regarding “biological correctness”.
 Special thanks to my crazy sister, for whom I wrote this story in the first place and who has made me laugh so many times with her on-point-brutally-honest comments. 
 
