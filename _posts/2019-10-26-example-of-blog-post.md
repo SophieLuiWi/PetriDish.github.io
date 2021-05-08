@@ -11,6 +11,7 @@ og_image: /assets/img/content/post-example/Banner.jpg
 <br />
 <br />
 
+This is what I imagine a virus to be (in this case Ebola viruses), if it was magnified 300,000 times. 
 
 <br />
 
@@ -21,7 +22,8 @@ og_image: /assets/img/content/post-example/Banner.jpg
 4. [...and viruses a special delivery](#and-viruses-a-special-delivery)
 5. [Delivery to a microcosmos](#delivery-to-a-microcosmos)
 6. [The aftermath](#the-aftermath)
-7. [Footnotes](#footnotes)
+7. [Final notes](#final-notes)
+8. [Footnotes](#footnotes)
 
 #### Preface (or virus infection in a nutshell)
 
@@ -61,6 +63,16 @@ Looking back at the city, the face of it has completely changed. No buzzing life
 Turning away from the city center and leaving the library and the square full of scattered people behind, the citiy borders come into view. The traffic has almost come to a standstill and the once well protected border is now abandoned. Beyond the borders lies a universe of neighbouring cities, very similar to this one as it used to be. Most of them have received their parcel already and are met with the same fate. Some lonely ones must have heard from the misery and have been warned not to look directly at the box, for its beauty mesmerizes everyone who lays eyes on it. They are fighting against their own, against curious clerks and workers who dare to look and are prepared to snatch the instruction manuals away at all cost. Yet, among the sea of dying cities, there are some resistant islands that have closed their borders and are standing their ground confidently.  
 
 <br />
+
+#### Final notes
+
+This is what I imagine a virus would be if it were a little bit more like an everyday object, we are more familiar with. Since, simply speaking, viruses are very well protected genomes, the book analogy often used to describe DNA came immediately to my mind. Similarly, the cell can be described as a city buzzing with life and almost any biochemical process can be described with an analogy of the inner workings of a city. 
+<br />
+One discrepancy, however, that arises when these two analogies are mixed is the difference in dimensions. A virus (like the Ebola virus used in this example) of approximately 2 µm in length is magnified 300,000 times to become a papyrus roll of 60 cm length. A human body cell of 30 µm on the other hand, is magnified approximately 22 million times to become the smallest city in the world (the Vatican, which has an area of only 0.44 km^2). 
+
+<br />
+And last but not least: I am very grateful for the invaluable input I received from Dimitris, Helen, Theresa, Nic and Michi (in the order they received the different drafts 😉). Thanks a lot for your time and patience and critical input regarding “biological correctness”.
+Special thanks to my crazy sister, for whom I wrote this story in the first place and who has made me laugh so many times with her on-point-brutally-honest comments. 
 
 
 ##### FOOTNOTES
