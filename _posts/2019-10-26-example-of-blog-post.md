@@ -10,7 +10,7 @@ og_image: /assets/img/content/post-example/Banner.jpg
 <img src="{{ "/assets/img/content/post-example/Banner.jpg" | absolute_url }}" alt="bay" class="post-pic"/>
 <br />
 <br />
-<div style="text-align: justify">
+
 
 #### Table of Contents
 1. [Preface (or virus infection in a nutshell)](#preface-(or-virus-infection-in-a-nutshell))
@@ -79,4 +79,4 @@ Special thanks to my crazy sister, for whom I wrote this story in the first plac
 
 [^2]: If you look closely, you will see differences between them: Some copy only short chapters, others are working only occasionally and copy the entire book at once.
 
-</div>
+
