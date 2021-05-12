@@ -22,7 +22,7 @@ og_image: /assets/img/content/post-example/Banner.jpg
 8. [Footnotes](#footnotes)
 
 #### Preface (or virus infection in a nutshell)
-{: style="text-align: justify" } 
+<div style="text-align: justify">
 Viruses are tiny. They are the smallest pathogens that infect and often devastate living organisms from the smallest (bacteria) to the largest, including us. An infection starts with the entry of a single virus into a cell. Once inside, the virus takes control of the host cell machinery to multiply and generate many copies of itself. The newly formed viruses then find their way out of the cell again, spread to surrounding cells and repeat their infection cycle until they are defeated by the defense mechanisms of the infected organism – or until their host succumbs. 
 <br />
 A single human cell is so small, it is invisible to the naked eye but can be magnified with simple microscopes that have been around for more than 300 years. A virus, being even smaller than a cell, is so tiny that it requires special microscopes to reveal its shape and size and the first image of a virus wasn’t acquired until 1935[^1]. Since then, viruses have been studied with tools and instruments unimaginable just a few generations ago. New species are discovered all around the world, revealing ancient relationships between different viruses and their hosts. And the remarkable details unveiled about the “life” cycle of some viruses create infinite room for imagination.
