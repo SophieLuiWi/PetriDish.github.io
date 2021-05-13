@@ -59,7 +59,6 @@ Looking back at the city, the face of it has completely changed. No buzzing life
 #### The aftermath
 
 Turning away from the city center and leaving the library and the square full of scattered people behind, the citiy borders come into view. The traffic has almost come to a standstill and the once well protected border is now abandoned. Beyond the borders lies a universe of neighbouring cities, very similar to this one as it used to be. Most of them have received their parcel already and are met with the same fate. Some lonely ones must have heard from the misery and have been warned not to look directly at the box, for its beauty mesmerizes everyone who lays eyes on it. They are fighting against their own, against curious clerks and workers who dare to look and are prepared to snatch the instruction manuals away at all cost. Yet, among the sea of dying cities, there are some resistant islands that have closed their borders and are standing their ground confidently.  
-<br />
 
 #### Final notes
 
