@@ -4,10 +4,10 @@ title:  "Book delivery to a microcosmos"
 subtitle: "- what viruses would be if cells were cities..."
 date:   2021-05-07
 blurb: "A look at an example post using Bay Jekyll theme."
-og_image: /assets/img/content/post-example/Banner.jpg
+og_image: /assets/img/content/post-example/library.png
 ---
 
-<img src="{{ "/assets/img/content/post-example/Banner.jpg" | absolute_url }}" alt="bay" class="post-pic"/>
+<img src="{{ "/assets/img/content/post-example/library.png" | absolute_url }}" alt="bay" class="post-pic"/>
 <br />
 <br />
 
