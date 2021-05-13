@@ -68,7 +68,7 @@ One discrepancy, however, that arises when these two analogies are mixed is the 
 <br />
 
 And last but not least: I am very grateful for the invaluable input I received from Dimitris, Helen, Theresa, Nic and Michi (in the order they received the different drafts ;-)). Thanks a lot for your time and patience and critical input regarding “biological correctness”.
-Special thanks to my crazy sister, for whom I wrote this story in the first place and who has made me laugh so many times with her on-point-brutally-honest comments. 
+Special thanks to my crazy sister, for whom I wrote this story in the first place and who has made me laugh so many times with her spot-on detection of logical errors. 
 
 <br />
 
