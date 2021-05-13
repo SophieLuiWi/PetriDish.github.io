@@ -39,12 +39,15 @@ Outside the library, life is just as busy. The errand boys don’t have to keep 
 
 <img src="{{ "/assets/img/content/post-example/table1.png" | absolute_url }}" alt="bay" class="post-pic"/>
 
+<br />
+
 #### ...and viruses a special delivery
 
 Far away from the city, still unaware of any future events, a striking parcel lies on the ground. Apparent only from the numerous stickers it is studded with, it resembles more an accessory than packaging: a colourful pouch, smoothly adapting the shape of what appears to be an elongated box. Beautifully ornamented, the box is composed of many small pieces, like an assembled mosaic. Taken apart, one by one, it reveals a delicate papyrus roll held together by leather strings. The papyrus roll is so wide, it stretches all along the length of the box and it is covered with an endless sequence of letters, uninterrupted by punctuation or empty space. Finally, stuck to one end of the papyrus roll is a magnifying glass. It has a varnished handle and is attached with a string to the umbilicus, the wooden stick used to unfurl the scroll. 
 All by itself, the parcel can lie around for a long time undiscovered and undisturbed. Yet, from time to time, somebody passes by: a street cleaner, equipped with his sturdy broom and dustbin; two kids running on the street, playing soccer with an old can of coke; a woman pushing a stroller while scolding her older child about running on the street. Most are too preoccupied to notice the parcel on the ground. Until one day somebody does take notice, picks the parcel up from the ground and - unable to make sense of the address scribbled on the many stickers on the pouch - brings it conscientiously to the nearest city. 
 
 <img src="{{ "/assets/img/content/post-example/table2.png" | absolute_url }}" alt="bay" class="post-pic"/>
+
 <br />
 
 #### Delivery to a microcosmos
