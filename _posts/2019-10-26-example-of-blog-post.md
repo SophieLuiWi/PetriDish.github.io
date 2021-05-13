@@ -45,7 +45,7 @@ Far away from the city, still unaware of any future events, a striking parcel li
 All by itself, the parcel can lie around for a long time undiscovered and undisturbed. Yet, from time to time, somebody passes by: a street cleaner, equipped with his sturdy broom and dustbin; two kids running on the street, playing soccer with an old can of coke; a woman pushing a stroller while scolding her older child about running on the street. Most are too preoccupied to notice the parcel on the ground. Until one day somebody does take notice, picks the parcel up from the ground and - unable to make sense of the address scribbled on the many stickers on the pouch - brings it conscientiously to the nearest city. 
 
 <img src="{{ "/assets/img/content/post-example/table2.png" | absolute_url }}" alt="bay" class="post-pic"/>
-
+<br />
 
 #### Delivery to a microcosmos
 
