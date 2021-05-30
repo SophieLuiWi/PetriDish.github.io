@@ -5,7 +5,7 @@ title: This&That
 slug: /this-and-that
 ---
 
-<img src="{{ "/assets/img/content/post-example/Banner.jpg" | absolute_url }}" alt="bay" class="post-pic"/>
+<img src="{{ "/assets/img/this-and-that/cell-culture.png" | absolute_url }}" alt="bay" class="post-pic"/>
 <br />
 <br />
 
