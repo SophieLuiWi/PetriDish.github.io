@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Fishing for a whitefly's gut
+title:  "Fishing for a whitefly's gut"
 date:   2021-06
 blurb: "a virus in the belly"
 og_image: /assets/img/content/post-example/library.png
