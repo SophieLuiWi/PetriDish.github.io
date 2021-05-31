@@ -5,7 +5,7 @@ date:   2021-05-31
 blurb: "a virus in the belly"
 og_image: /assets/img/content/post-example/library.png
 ---
-
+<style>body {text-align: justify}</style>
 Work in progress ;)
 
 Schematic: Girl with ponytail holding a fishing rod over a cassava field --> on the hook: whitefly dangling upside down
