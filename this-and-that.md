@@ -16,7 +16,7 @@ A collection of drawings and little poems inspired by experiments or microscopy 
 
 #### Cartoons
 
-Late afternoon, a bit jittery from the last two coffees cell culture can still be fun :P.
+What is a petri dish really if you look at it closely? A round, plastic vessel, 10 cm in diameter? A sterile container that cells like to grow in if you also add a little bit of nutritious liquid? Or could it house a deep ocean, where coverslips and microscopy grids float around like little boats? Cells could be sun bathing on coverslips, idly observing energetic viruses jumping into the ocean to take a swim. And when nobody's watching and the lights are turned off, imagine how pretty they would look if they fluoresced... 
 
 <img src="{{ "/assets/img/this-and-that/cell-culture.png" | absolute_url }}" alt="bay" class="post-pic"/>
 <br />
