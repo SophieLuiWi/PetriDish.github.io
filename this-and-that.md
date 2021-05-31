@@ -1,9 +1,5 @@
 
----
-layout: blog
-title: This&That
-slug: /this-and-that
----
+
 
 A collection of drawings and little poems inspired by experiments or microscopy images in the lab.
 
