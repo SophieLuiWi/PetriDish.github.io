@@ -2,6 +2,10 @@
   clear: both;
   overflow: hidden;
   padding-bottom: 3em;
+  
+    @include media-query($on-mobile) {
+      font-size: 28px;
+    }
 }
 
 .work-bubble {
