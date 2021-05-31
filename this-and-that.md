@@ -5,8 +5,6 @@ title: This&That
 slug: /this-and-that
 ---
 
-<br />
-
 A collection of drawings and little poems inspired by experiments or microscopy images in the lab.
 
 
