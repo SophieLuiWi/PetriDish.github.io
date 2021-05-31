@@ -20,10 +20,8 @@ What is a petri dish really if you look at it closely? A round, plastic vessel, 
 
 <img src="{{ "/assets/img/this-and-that/cell-culture.png" | absolute_url }}" alt="bay" class="post-pic"/>
 <br />
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-<br />
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<br />
 
 <br />
 <br />
