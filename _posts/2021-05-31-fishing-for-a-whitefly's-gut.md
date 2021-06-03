@@ -10,9 +10,10 @@ Work in progress ;)
 
 <img src="{{ "/assets/img/content/post-example/fishing.png" | absolute_url }}" alt="bay" class="post-pic"/>
 
-If the siutation ever arose: how would you "fish" for a whitefly's gut? And if successful, what would you do with the gut on the hook? Most interesting probably (though the toughest to discuss and probably impossible to get to the bottom of): *why* would you fish for a whitefly's gut? 
+If the situation ever arose: how would you "fish" for a whitefly's gut? What would you do with the gut on the hook? But first and foremost: *why* would you fish for a whitefly's gut? 
 
-When I contemplated studying biochemistry to understand the nature of things (or whatever romantic idea I had those days), I spent a few weeks in my dad's lab to learn some basic experiments and get a noseful of what I was getting into. One of the tasks I was facing was to collect a handful of specimen of the silverleaf whitefly, *Bemisia tabaci*, a nasty little insect that looks like a white relative of the fruit fly and besieges a vast number of different, unfortunate tropical plants. The institute I was working at was (and still is) housing a large greenhouse that feels a bit like visiting a botanical garden. Pleasantly warm, humid rooms with sliding doors, all walls transparent so you can see the sea of plants in every room 
+When I contemplated studying biochemistry to understand the nature of things (or whatever romantic idea I had those days), I spent a few weeks in my dad's lab to learn some basic experiments and get a noseful of what I was getting into. One of the tasks I was facing was to collect a handful of specimen of the silverleaf whitefly, *Bemisia tabaci*, a nasty little insect that looks like a white relative of the fruit fly and besieges a vast number of different, unfortunate tropical plants. 
+The institute I was working at was (and still is) housing a large greenhouse that feels a bit like visiting a botanical garden. Pleasantly warm, humid rooms with sliding doors, all walls transparent so you can see the sea of plants in every room 
 
 
 A few plants kept in isolation in a glass tank     
