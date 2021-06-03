@@ -3,12 +3,12 @@ layout: post
 title:  "Fishing for a whitefly's gut"
 date:   2021-05-31
 blurb: "a virus in the belly"
-og_image: /assets/img/content/post-example/library.png
+og_image: /assets/img/content/post-example/fishing.png
 ---
 <style>body {text-align: justify}</style>
 Work in progress ;)
 
-Schematic: Girl with ponytail holding a fishing rod over a cassava field --> on the hook: whitefly dangling upside down
+<img src="{{ "/assets/img/content/post-example/fishing.png" | absolute_url }}" alt="bay" class="post-pic"/>
 
 If the siutation ever arose: how would you "fish" for a whitefly's gut? And if successful, what would you do with the gut on the hook? Most interesting probably (though the toughest to discuss and probably impossible to get to the bottom of): *why* would you fish for a whitefly's gut? 
 
