@@ -7,6 +7,7 @@ og_image: /assets/img/content/post-example/fishing.png
 ---
 <style>body {text-align: justify}</style>
 Work in progress ;)
+
 If the situation ever arose: how would you "fish" for a whitefly's gut? What would you do with the gut on the hook? But first and foremost: *why* would you fish for a whitefly's gut? 
 
 <img src="{{ "/assets/img/content/post-example/fishing.png" | absolute_url }}" alt="bay" class="post-pic"/>
