@@ -9,10 +9,12 @@ A collection of this and that: drawings, fun facts and little poems all around l
 1. [Cartoons](#cartoons)
     * [Cell culture when nobody's watching](#cell-culture-when-nobody's-watching)
     * [Part 2 Sub-part 2](#part-2-sub-part-2)
-3. [Poetry](#poetry)
+2. [Through the lens](#through-the-lens)
+    * [This is water.](#this-is-water)
+4. [Poetry](#poetry)
     * [Part 2 Sub-part 1](#part-2-sub-part-1)
     * [Part 2 Sub-part 2](#part-2-sub-part-2)
-4. [Footnotes](#footnotes)
+5. [Footnotes](#footnotes)
 
 #### Cartoons
 
@@ -26,17 +28,16 @@ And when nobody's watching and the lights are turned off, imagine how pretty the
 <br />
 <br />
 
-#### PART 2
+#### Through the lens
 
 
 <br />
 
-##### PART 2 SUB PART 1
+##### This is water.
 
 
 <br />
 
-##### PART 2 SUB PART 2
 
 
 <br />
