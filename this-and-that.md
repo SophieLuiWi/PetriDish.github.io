@@ -4,10 +4,8 @@ title: This&That
 slug: /this-and-that
 ---
 
-
 A small collection of this and that- cartoons, stunning microscopy images, poetry- all around science and lab life.  
 <br />
-
 #### Table of Contents
 1. [Cartoons](#cartoons)
     * [Cell culture when nobody's watching](#cell-culture-when-nobody's-watching)
