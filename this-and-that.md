@@ -12,15 +12,13 @@ A small collection of this and that- cartoons, stunning microscopy, poetry- all 
 #### Table of Contents
 1. [Cartoons](#cartoons)
     * [Cell culture when nobody's watching](#cell-culture-when-nobody's-watching)
-    * [Part 2 Sub-part 2](#part-2-sub-part-2)
 2. [Through the lens](#through-the-lens)
     * [This is water.](#this-is-water)
 4. [Poetry](#poetry)
-    * [Part 2 Sub-part 1](#part-2-sub-part-1)
-    * [Part 2 Sub-part 2](#part-2-sub-part-2)
 5. [Footnotes](#footnotes)
 
 #### Cartoons
+##### Cell culture when nobody's watching
 
 What is a petri dish really if you look at it closely? A round, plastic vessel, 10 cm in diameter? A sterile container that cells like to grow in if you provide them with a little bit of nutritious liquid? Or could it house a deep ocean, where coverslips and microscopy grids float around like little boats? Cells could be sunbathing on coverslips, idly observing cheerful viruses jumping into the ocean to take a swim. 
 
