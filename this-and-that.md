@@ -10,7 +10,7 @@ A small collection of this and that- cartoons, stunning microscopy images, poetr
 1. [Cartoons](#cartoons)
     * [Cell culture when nobody's watching](#cell-culture-when-nobody's-watching)
 2. [Through the lens](#through-the-lens)
-    * [This is water.](#this-is-water)
+    * [This is water](#this-is-water)
 4. [Poetry](#poetry)
 5. [Footnotes](#footnotes)
 
@@ -32,7 +32,7 @@ And when nobody's watching and the lights are turned off, imagine how pretty the
 
 <br />
 
-##### This is water.
+##### This is water
 
 <img src="{{ "/assets/img/this-and-that/water/ice_cube.png" | absolute_url }}" alt="bay" class="post-pic"/>
 
