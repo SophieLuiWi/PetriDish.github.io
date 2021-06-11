@@ -38,7 +38,7 @@ And when nobody's watching and the lights are turned off, imagine how pretty the
 <img src="{{ "/assets/img/this-and-that/water/ice_triplet.png" | absolute_url }}" alt="bay" class="post-pic"/>
 
 <br />
-<img src="{{ "/assets/img/this-and-that/water/ice_flower.tiff" | absolute_url }}" alt="bay" class="post-pic"/>
+<img src="{{ "/assets/img/this-and-that/water/ice_flower.png" | absolute_url }}" alt="bay" class="post-pic"/>
 
 <br />
 <img src="{{ "/assets/img/this-and-that/water/ice_hexagon.png" | absolute_url }}" alt="bay" class="post-pic"/>
