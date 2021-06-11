@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: This&That
 slug: /this-and-that
 ---
