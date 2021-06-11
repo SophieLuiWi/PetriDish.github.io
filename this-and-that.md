@@ -1,9 +1,11 @@
 
-
-
-A collection of this and that: drawings, fun facts and little poems all around lab life and science.
+---
+layout: post
+title:  "This and that"
 
 ---
+
+<br />
 
 #### Table of Contents
 1. [Cartoons](#cartoons)
