@@ -5,8 +5,7 @@ slug: /this-and-that
 ---
 
 
-A small collection of this and that- cartoons, stunning microscopy, poetry- all around lab life.  
-
+A small collection of this and that- cartoons, stunning microscopy images, poetry- all around science and lab life.  
 <br />
 
 #### Table of Contents
