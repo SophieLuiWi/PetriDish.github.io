@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: This and that
+title: This&That
 slug: /this-and-that
 ---
 
