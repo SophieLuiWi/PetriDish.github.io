@@ -1,7 +1,4 @@
-
----
-layout: post
----
+A small collection of this and that- cartoons, stunning microscopy, poetry- all around lab life.  
 
 <br />
 
