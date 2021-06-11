@@ -1,8 +1,6 @@
 
 ---
 layout: post
-title:  "This and that"
-
 ---
 
 <br />
