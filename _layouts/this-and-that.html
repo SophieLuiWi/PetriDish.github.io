@@ -28,10 +28,6 @@
             </span>{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
           </header>
 
-          <article class="post-content">
-            {{ content }}
-          </article>
-
           {% if page.draft %}
               {% include draft-banner.html %}
           {% endif %}
