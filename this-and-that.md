@@ -29,7 +29,7 @@ And when nobody's watching and the lights are turned off, imagine how pretty the
 
 ### Through the lens
 
-
+There is something unique to looking at the world through a lens: a different angle, magnification or zoom, lighting,...and of course the individual choice of what to place in front of the lens.   
 <br />
 
 #### This is water
