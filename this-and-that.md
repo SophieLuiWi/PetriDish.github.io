@@ -21,7 +21,7 @@ What is a petri dish really if you look at it closely? A round, plastic vessel, 
 
 <img src="{{ "/assets/img/this-and-that/cell_culture.png" | absolute_url }}" alt="bay" class="post-pic"/>
 <br />
-And when nobody's watching and the lights are turned off, imagine how pretty they would look if they fluoresced... 
+And when nobody's watching and the lights are turned off, imagine how pretty they would look if cells and viruses fluoresced... 
 <br />
 <img src="{{ "/assets/img/this-and-that/lights_off.png" | absolute_url }}" alt="bay" class="post-pic"/>
 <br />
@@ -34,8 +34,9 @@ There is something unique to looking at the world through a lens. The same objec
 <br />
 
 #### This is water
+{: .gitlab-orange}
 
-The clear, glassy surface of a calm lake, a gurgling stream running through rocky riverbeds, crashing waves of a wild ocean-  
+The clear, glassy surface of a calm lake, a gurgling stream running through rocky riverbeds, crashing waves of a wild ocean- this is what I think of when I think of water. 
 
 
 <img src="{{ "/assets/img/this-and-that/water/ice_cube.png" | absolute_url }}" alt="bay" class="post-pic"/>
