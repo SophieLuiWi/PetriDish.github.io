@@ -25,7 +25,8 @@ And when nobody's watching and the lights are turned off, imagine how pretty the
 <br />
 <img src="{{ "/assets/img/this-and-that/lights_off.png" | absolute_url }}" alt="bay" class="post-pic"/>
 <br />
-<br />
+
+----
 
 ### Through the lens
 
