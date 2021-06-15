@@ -29,10 +29,13 @@ And when nobody's watching and the lights are turned off, imagine how pretty the
 
 ### Through the lens
 
-There is something unique to looking at the world through a lens: a different angle, magnification or zoom, lighting,...and of course the individual choice of what to place in front of the lens.   
+There is something unique to looking at the world through a lens. The same object seen from a different angle, from far away or at high magnification can change its character entirely.   
 <br />
 
 #### This is water
+
+The clear, glassy surface of a calm lake, a gurgling stream running through rocky riverbeds, crashing waves of a wild ocean-  
+
 
 <img src="{{ "/assets/img/this-and-that/water/ice_cube.png" | absolute_url }}" alt="bay" class="post-pic"/>
 
