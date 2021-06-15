@@ -37,7 +37,7 @@ There is something unique to looking at the world through a lens. The same objec
 
 ### This is water
 
-The clear, glassy surface of a calm lake, a gurgling stream running through rocky riverbeds, crashing waves of a wild ocean- this is what I think of when I think of water. Billions of water molecules[^1] huddling together, clinging to each other and creating a massive force that literally carves the face of earth. But water is is also invisible; as tiny droplets in the air. These tiny droplets on humid days form beautiful 
+The clear, glassy surface of a calm lake, a gurgling stream running through rocky riverbeds, crashing waves of a wild ocean- this is what I think of when I think of water. Billions of water molecules[^1] huddling together, clinging to each other and creating a massive force that literally carves the face of earth. But water is also invisible; as tiny droplets in the air. These tiny droplets form crystals when rapidly frozen down, like these ones images with a scanning electron microscope:
 
 
 <img src="{{ "/assets/img/this-and-that/water/ice_cube.png" | absolute_url }}" alt="bay" class="post-pic"/>
