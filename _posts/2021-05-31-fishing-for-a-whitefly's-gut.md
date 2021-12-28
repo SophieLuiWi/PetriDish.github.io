@@ -30,6 +30,6 @@ When glued to a pipet tip, the eyelash had the perfect shape and elasticity to s
 ##### FOOTNOTES
 
 [^1]: Strong and thick roots are nutritious and eaten all across Africa and South America. Despite a pretty plant above though, the roots of a virus-infected plant may be crippled – a disaster for societies relying on cassava as major food source
-[^2]: For previous generations of scientist sucking up flies would have been a walk in the park compared to what they used to pipet with their mouths (https://bodyhorrors.wordpress.com/2013/03/20/mouth_pipetting/)
+[^2]: For previous generations of scientist sucking up flies would have been a walk in the park compared to what they used to [pipet with their mouths](https://bodyhorrors.wordpress.com/2013/03/20/mouth_pipetting/)
 
 
