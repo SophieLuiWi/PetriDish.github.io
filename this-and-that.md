@@ -17,11 +17,11 @@ A small collection of this and that- cartoons, stunning microscopy images, poetr
 ### Cartoons
 ### Cell culture when nobody's watching
 <style>body {text-align: justify}</style>
-What is a petri dish really if you look at it closely? A round, plastic vessel, 10 cm in diameter? A sterile container that cells like to grow in if you provide them with a little bit of nutritious liquid? Or could it house a deep ocean, where coverslips and microscopy grids float around like little boats? Cells could be sunbathing on coverslips, idly observing cheerful viruses jumping into the ocean to take a swim. 
+What is a petri dish really if you look at it closely? A round, plastic vessel, 10 cm in diameter? A sterile container that cells like to grow in if you provide them with a little bit of nutritious liquid? Imagine it housed a deep ocean, where coverslips and microscopy grids float around like little boats. And cells are sunbathing on coverslips, idly observing cheerful viruses jumping into the ocean to take a swim.
 
 <img src="{{ "/assets/img/this-and-that/cell_culture.png" | absolute_url }}" alt="bay" class="post-pic"/>
 <br />
-And when nobody's watching and the lights are turned off, imagine how pretty they would look if cells and viruses fluoresced... 
+And when nobody's watching and the lights are turned off... 
 <br />
 <img src="{{ "/assets/img/this-and-that/lights_off.png" | absolute_url }}" alt="bay" class="post-pic"/>
 
