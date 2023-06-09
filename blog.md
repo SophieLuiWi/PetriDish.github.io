@@ -8,6 +8,6 @@ slug: /blog
 
 "Fishing for a whitefly's gut" is a story diving into the technical intricacies of dissecting a little whitefly to get to its gut. 
 
-"Discovery of viruses" summarizes the history of the very beginnings of virology.   
+"Viruses and their discovery" summarizes the history of the very beginnings of virology.   
 
 <br />
