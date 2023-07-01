@@ -5,7 +5,7 @@ slug: /about-me
 items:
   - title:
     image:
-      src: /assets/img/work/me2.png
+      src: /assets/img/work/me4.png
       alt: water
     description: (2023) After several years spent in the lab, in front of microscopes and at conferences to share my work and get inspired, I finished my PhD at the end of 2022. By mere serendipity, I studied human viruses for my PhD and ended up taking images of one of the most deadly viruses - Ebola virus - and the most well-known virus at the present time, SARS-CoV2. Drawn as an undergraduate student to the abstract (and often dry) world of structure biology, this work has profoundly shaped my fascination with cell biolody and microbiology.
     
