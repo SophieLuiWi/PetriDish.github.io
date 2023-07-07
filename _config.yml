@@ -15,8 +15,8 @@ header:
     - name: About me
       slug: /about-me
     - name: Blog
-    - name: This&That
-      slug: /this-and-that
+#   - name: This&That
+#      slug: /this-and-that
 
 footer:
   show_powered_by: true
