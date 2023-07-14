@@ -1,5 +1,7 @@
 ---
 layout: home
+title: Home
+lang: en
 profile_picture:
   src: /assets/img/home_pic.jpg
   alt: website picture

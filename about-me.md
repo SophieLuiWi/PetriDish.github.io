@@ -1,6 +1,7 @@
 ---
 layout: work
 title: About me
+lang: en
 slug: /about-me
 items:
   - title:
