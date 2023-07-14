@@ -2,6 +2,7 @@
 layout: post
 title:  "Weiße-Fliegen-Fischen"
 lang: ger
+permalink: /:lang/weiße-fliegen-fischen/
 date:   2021-05-31
 blurb: "a virus in the belly"
 og_image: /assets/img/content/post-example/fishing.png
