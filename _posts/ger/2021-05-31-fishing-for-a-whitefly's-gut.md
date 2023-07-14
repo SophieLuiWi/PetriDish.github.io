@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Fishing for a whitefly's gut"
+title:  "Weiße-Fliegen-Fischen"
+lang: ger
 date:   2021-05-31
 blurb: "a virus in the belly"
 og_image: /assets/img/content/post-example/fishing.png
