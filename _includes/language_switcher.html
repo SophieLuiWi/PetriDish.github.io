@@ -1,0 +1,8 @@
+#This code creates an unordered list (<ul>) with list items (<li>) for each language specified in your _config.yml file.
+<ul class="language-switcher">
+  {% for language in site.languages %}
+    <li>
+      <a href="{{ site.baseurl }}{{ page.url | remove: page.lang }}{{ language.code }}{{ page.url | remove: '/' }}">{{ language.name }}</a>
+    </li>
+  {% endfor %}
+</ul>
