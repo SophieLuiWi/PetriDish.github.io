@@ -33,3 +33,15 @@ $on-laptop: 800px;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import "base", "layout", "site", "work", "blog", "post", "404";
+
+.language-switcher {
+  text-decoration: none;
+  padding: 5px 10px;
+  background-color: #f2f2f2;
+  color: #333;
+  border-radius: 4px;
+}
+
+.language-switcher:hover {
+  background-color: #ddd;
+}
