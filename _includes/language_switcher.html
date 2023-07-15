@@ -8,7 +8,7 @@
 # </ul>
 
 <ul class="language-switcher">
-  {% for languages in site.language %}
+  {% for language in site.language %}
     {% assign posts_in_language = site.posts | where: 'lang', language.code %}
     {% if posts_in_language.size > 0 %}
       <li>
