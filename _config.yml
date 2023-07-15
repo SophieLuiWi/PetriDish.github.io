@@ -11,7 +11,7 @@ google_analytics: "UA-121636368-3"
 languages:
     - code: en
       name: English
-    - code: ger
+    - code: de
       name: German
   # Add more languages as needed
 
