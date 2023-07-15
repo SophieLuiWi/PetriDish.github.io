@@ -8,15 +8,6 @@ url: "https://sophieluiwi.github.io" # the base hostname & protocol for the site
 og_image: /assets/img/home_pic.jpg
 google_analytics: "UA-121636368-3"
 
-languages:
-    - code: en
-      name: English
-    - code: de
-      name: German
-  # Add more languages as needed
-
-permalink: /:lang/:title/
-
 header:
   pages:
     - name: Home
@@ -26,6 +17,12 @@ header:
     - name: Blog
 #   - name: This&That
 #      slug: /this-and-that
+languages:
+    - code: en
+      name: English
+    - code: de
+      name: German
+permalink: /:lang/:title/
 
 footer:
   show_powered_by: true
