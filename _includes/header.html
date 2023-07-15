@@ -20,6 +20,14 @@
           </a>
         {% endfor %}
       </div>
+
+      <ul class="language-switcher">
+        {% for language in site.header.languages %}
+          <li>
+            <a href="{{ site.baseurl }}/{{ language.code }}">{{ language.name }}</a>
+          </li>
+        {% endfor %}
+      </ul>
     </nav>
   </div>
 </header>
