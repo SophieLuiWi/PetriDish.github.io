@@ -9,10 +9,10 @@ og_image: /assets/img/home_pic.jpg
 google_analytics: "UA-121636368-3"
 
 languages:
-  - code: en
-    name: English
-  - code: ger
-    name: German
+    - code: en
+      name: English
+    - code: de
+      name: German
   # Add more languages as needed
 
 permalink: /:lang/:title/
