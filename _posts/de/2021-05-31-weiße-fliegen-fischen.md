@@ -4,7 +4,7 @@ title:  "Weiße-Fliegen-Fischen"
 lang: de
 permalink: /:lang/weiße-fliegen-fischen/
 date:   2021-05-31
-blurb: "a virus in the belly"
+blurb: "ein Virus im Bauch"
 og_image: /assets/img/content/post-example/fishing.png
 ---
 <style>body {text-align: justify}</style>
