@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Viruses and their discovery"
-lang: en
+lang: de
 date:   2022-11-28
 blurb: "a short introduction to viruses"
 ---
