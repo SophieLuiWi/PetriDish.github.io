@@ -1,8 +1,8 @@
 ---
 layout: blog
 title: Blog
-lang: en
-slug: /blog
+lang: de
+slug: /de/blog
 ---
 
 **Book delivery to a microcosmos** is a fictional short story taking place in a minature world where cells are tiny cities buzzing with life. Everyday life in the city gets turned upside down upon the delivery of a special parcel... 
