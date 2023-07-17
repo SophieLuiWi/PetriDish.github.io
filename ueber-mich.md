@@ -2,7 +2,7 @@
 layout: work
 title: Über mich
 lang: de
-slug: /über-mich
+slug: /ueber-mich
 items:
   - title:
     image:
