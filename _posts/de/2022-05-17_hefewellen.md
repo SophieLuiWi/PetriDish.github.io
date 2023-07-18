@@ -2,6 +2,7 @@
 layout: post
 title:  "Hefewellen"
 lang: de
+permalink: /:lang/hefewellen/
 date:   2022-05-17
 blurb: "brief history of yeast"
 ---
