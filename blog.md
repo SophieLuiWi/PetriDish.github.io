@@ -9,6 +9,8 @@ slug: /de/blog
 
 **Fishing for a whitefly's gut** is a short story about how I learned the technical intricacies to dissect a little whitefly to get to its gut. 
 
-**Viruses and their discovery** summarizes the history of the very beginnings of virology.   
+**Viruses and their discovery** is an excerpt from my PhD thesis and summarizes the history of the very beginnings of virology.   
+
+**Yeasty waves and gusty breezes** provides a glimpse into the fascinating versatility and uses of common yeasts in culinary deligths and research.
 
 <br />
