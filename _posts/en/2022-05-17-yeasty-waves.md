@@ -1,6 +1,7 @@
 ---
 layout: post
 lang: en
+permalink: /:lang/yeasty-waves/
 date:   2022-05-17
 blurb: "brief history of yeast"
 ---
