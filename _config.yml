@@ -17,6 +17,19 @@ header:
     - name: Blog
 #   - name: This&That
 #      slug: /this-and-that
+    - name: Startseite
+      slug: /de/
+    - name: Über mich
+      slug: /de/ueber-mich
+    - name: Blog
+      slug: /de/blog
+
+languages:
+    - code: en
+      name: English
+    - code: de
+      name: German
+permalink: /:lang/:title/
 
 footer:
   show_powered_by: true

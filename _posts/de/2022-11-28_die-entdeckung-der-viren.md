@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Viruses and their discovery"
-lang: en
+lang: de
 date:   2022-11-28
 blurb: "a short introduction to viruses"
 ---
@@ -60,10 +60,3 @@ Humans and non-human primates are dead-end hosts with several intermediate anima
 [^27]:	Olival, K. J. et al. Ebola virus antibodies in fruit bats, bangladesh. Emerg. Infect. Dis. 19, 270–273 (2013).
 [^28]:	Towner, J. S. et al. Isolation of genetically diverse Marburg viruses from Egyptian fruit bats. PLoS Pathog. 5, 1000536 (2009).
 [^29]:	Amman, B. R. et al. Seasonal Pulses of Marburg Virus Circulation in Juvenile Rousettus aegyptiacus Bats Coincide with Periods of Increased Risk of Human Infection. PLoS Pathog. 8, 1002877 (2012).
-
-
-
-
-
-
-

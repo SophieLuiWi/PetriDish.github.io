@@ -1,8 +1,8 @@
 ---
 layout: work
-title: About me
-lang: en
-slug: /about-me
+title: Über mich
+lang: de
+slug: /de/ueber-mich
 items:
   - title:
     image:
