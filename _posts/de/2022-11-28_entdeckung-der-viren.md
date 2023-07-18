@@ -2,7 +2,7 @@
 layout: post
 title:  "Entdeckung der Viren"
 lang: de
-permalink: /:lang/entdeckung-der-viren/
+permalink: /:lang/title/
 date:   2022-11-28
 blurb: "a short introduction to viruses"
 ---
