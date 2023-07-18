@@ -24,7 +24,7 @@ header:
     - name: Blog
       slug: /de/blog
 
-languages:
+language:
     - code: en
       name: English
     - code: de
