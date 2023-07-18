@@ -3,7 +3,7 @@ layout: post
 title:  "Book delivery to a microcosmos"
 subtitle: "- what viruses would be if cells were cities..."
 lang: en
-permalink: /:lang/book/delivery-to-a-microcosmos/
+permalink: /:lang/book-delivery-to-a-microcosmos/
 date:   2021-05-07
 blurb: "What viruses would be if cells were cities"
 og_image: /assets/img/content/post-example/library.png
