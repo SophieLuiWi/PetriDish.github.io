@@ -8,16 +8,17 @@
 # </ul>
 
 <ul class="language-switcher">
-  {% for language in site.languages %}
-    {% assign posts_in_language = site.posts | where: 'lang', language.code %}
+  {% for lang in site.languages %}
+    {% assign posts_in_language = site.posts | where: 'lang', lang.code %}
     {% if posts_in_language.size > 0 %}
       <li>
-        <a href="{{ site.baseurl }}/{{ language.code }}" class="language-link">
-          {{ language.name }}
+        <a href="{{ site.baseurl }}/{{ lang.code }}" class="language-link">
+          {{ lang.name }}
         </a>
       </li>
     {% endif %}
   {% endfor %}
 </ul>
+
 
 
