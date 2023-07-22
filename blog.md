@@ -10,6 +10,6 @@ slug: /blog
 
 **Viruses and their discovery** is an excerpt from my PhD thesis and summarizes the history of the very beginnings of virology.   
 
-**Yeasty waves and gusty breezes** provides a glimpse into the fascinating versatility and uses of common yeasts in culinary delights and research.
+**Yeasty waves and gusty breezes** is work in progress and will provide a glimpse into the fascinating versatility and uses of common yeasts in culinary delights and research.
 
 <br />
