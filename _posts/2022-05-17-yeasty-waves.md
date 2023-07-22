@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Yeasty waves and gusty breezes"
-date:   2022-05-17
+date:   05-17-2022
 blurb: "brief history of yeast"
 ---
 <style>body {text-align: justify}</style>
